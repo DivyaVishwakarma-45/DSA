@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -73,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
