@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
