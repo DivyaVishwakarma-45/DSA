@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0078-subsets) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
