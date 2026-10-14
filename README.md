@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
