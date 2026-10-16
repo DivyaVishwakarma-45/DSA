@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
