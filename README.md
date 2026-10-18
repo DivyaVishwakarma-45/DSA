@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0179-largest-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/DivyaVishwakarma-45/DSA/tree/master/1148-article-views-i) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
