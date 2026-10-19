@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/DivyaVishwakarma-45/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
