@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0179-largest-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
