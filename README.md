@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DivyaVishwakarma-45/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
